@@ -6,6 +6,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class LoginSteps {
+	
 	@Given("^Потребитеял отваря екрана за вход в системата$")
 	public void openLoginScreen() throws Throwable {
 
